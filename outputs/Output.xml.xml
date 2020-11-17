@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><nome_popular>Flamengo</nome_popular> <vitorias>5</vitorias> <empates>0</empates> <derrotas>0</derrotas> <gols_pro>14</gols_pro> <gols_contra>2</gols_contra> <diff_golos>12</diff_golos> <jogos>5</jogos> <pontos>15</pontos></Row>
+<Row><nome_popular>Fluminense</nome_popular> <vitorias>3</vitorias> <empates>1</empates> <derrotas>1</derrotas> <gols_pro>11</gols_pro> <gols_contra>4</gols_contra> <diff_golos>7</diff_golos> <jogos>5</jogos> <pontos>10</pontos></Row>
+<Row><nome_popular>Volta Redonda</nome_popular> <vitorias>3</vitorias> <empates>1</empates> <derrotas>1</derrotas> <gols_pro>7</gols_pro> <gols_contra>3</gols_contra> <diff_golos>4</diff_golos> <jogos>5</jogos> <pontos>10</pontos></Row>
+<Row><nome_popular>Botafogo</nome_popular> <vitorias>2</vitorias> <empates>2</empates> <derrotas>1</derrotas> <gols_pro>9</gols_pro> <gols_contra>7</gols_contra> <diff_golos>2</diff_golos> <jogos>5</jogos> <pontos>8</pontos></Row>
+<Row><nome_popular>Vasco</nome_popular> <vitorias>2</vitorias> <empates>2</empates> <derrotas>1</derrotas> <gols_pro>5</gols_pro> <gols_contra>4</gols_contra> <diff_golos>1</diff_golos> <jogos>5</jogos> <pontos>8</pontos></Row>
+<Row><nome_popular>Boavista</nome_popular> <vitorias>2</vitorias> <empates>1</empates> <derrotas>2</derrotas> <gols_pro>5</gols_pro> <gols_contra>5</gols_contra> <diff_golos>0</diff_golos> <jogos>5</jogos> <pontos>7</pontos></Row>
+<Row><nome_popular>Bangu</nome_popular> <vitorias>2</vitorias> <empates>1</empates> <derrotas>2</derrotas> <gols_pro>4</gols_pro> <gols_contra>6</gols_contra> <diff_golos>-2</diff_golos> <jogos>5</jogos> <pontos>7</pontos></Row>
+<Row><nome_popular>Madureira</nome_popular> <vitorias>2</vitorias> <empates>0</empates> <derrotas>3</derrotas> <gols_pro>6</gols_pro> <gols_contra>9</gols_contra> <diff_golos>-3</diff_golos> <jogos>5</jogos> <pontos>6</pontos></Row>
+<Row><nome_popular>Portuguesa RJ</nome_popular> <vitorias>1</vitorias> <empates>2</empates> <derrotas>2</derrotas> <gols_pro>5</gols_pro> <gols_contra>4</gols_contra> <diff_golos>1</diff_golos> <jogos>5</jogos> <pontos>5</pontos></Row>
+<Row><nome_popular>Resende</nome_popular> <vitorias>1</vitorias> <empates>1</empates> <derrotas>3</derrotas> <gols_pro>4</gols_pro> <gols_contra>8</gols_contra> <diff_golos>-4</diff_golos> <jogos>5</jogos> <pontos>4</pontos></Row>
+<Row><nome_popular>Macaé</nome_popular> <vitorias>1</vitorias> <empates>1</empates> <derrotas>3</derrotas> <gols_pro>2</gols_pro> <gols_contra>7</gols_contra> <diff_golos>-5</diff_golos> <jogos>5</jogos> <pontos>4</pontos></Row>
+<Row><nome_popular>Cabofriense</nome_popular> <vitorias>0</vitorias> <empates>0</empates> <derrotas>5</derrotas> <gols_pro>4</gols_pro> <gols_contra>17</gols_contra> <diff_golos>-13</diff_golos> <jogos>5</jogos> <pontos>0</pontos></Row>
+</Rows>
